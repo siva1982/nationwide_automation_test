@@ -24,7 +24,7 @@ Implement the Feature file "src/features/find-mortgage-rate.feature" according t
 
 Steps to execute test
 
-1) git clone 
+1) git clone https://github.com/siva1982/nationwide_automation_test.git
 2) run npm install
 3) run testnreport // This will run the test and opens the Allure report in chorme browser
 
